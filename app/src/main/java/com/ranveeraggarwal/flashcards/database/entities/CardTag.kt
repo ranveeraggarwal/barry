@@ -1,4 +1,4 @@
-package com.ranveeraggarwal.flashcards.models
+package com.ranveeraggarwal.flashcards.database.entities
 
 import android.arch.persistence.room.ColumnInfo
 import android.arch.persistence.room.Entity
